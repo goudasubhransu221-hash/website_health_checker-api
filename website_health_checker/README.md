@@ -1,5 +1,8 @@
 # Website Health Checker
 
+Live Api: https://website-health-checker-api-1.onrender.com
+Live Api Documention(Swagger): https://website-health-checker-api-1.onrender.com/docs
+
 A begeinner friendly API built with FastApi that checks website avalibility and measures response time.
 
 ## Features
